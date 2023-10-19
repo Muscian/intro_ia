@@ -1,37 +1,6 @@
-# Introducción a Inteligencia Artificial
-Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Introducción a la Inteligencia Artificial (CEIA - FIUBA)
+# Introducción a Inteligencia Artificial - Musciano
+¡Buenas profe! Este repositorio es mi fork de la clase. Está hecho simplemente para poder avanzar con el TPI desde distintas PCs.
 
-## Organización del Repositorio
+Mi resolución del TPI se encuentra en una carpeta aparte en la raiz del repositorio. Tiene un enlace a continuación:
 
-``` 
-    Clase #
-        presentaciones
-        ejercicios
-            data
-            src
-            tests
-        juypterbooks
-            data
-            notebooks
-        README.md
-```
-
-## Requerimientos
-* Lenguaje de Programación
-    * Python 3.8
-    * Pip para instalar librerías
-* Librerías
-    * Numpy 1.18
-    * SciPy 1.5
-* Consola Interactiva de Python 
-    * IPython
-* Herramientas
-    * PyTest para tests
-    * GitHub para repositorios
-* IDE Recomendado 
-    * VS Code
-
-## Trabajos integradores:
-
-- [Integrador grupal](./ENUNCIADO_TP_GRUPAL.md)
-- [Integrador individual](./tp_integrador_enunciado/)
+- [TPI Resuelto](./'TPI Resuelto (Musciano)'/)
