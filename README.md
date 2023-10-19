@@ -3,4 +3,4 @@
 
 Mi resolución del TPI se encuentra en una carpeta aparte en la raiz del repositorio. Tiene un enlace a continuación:
 
-- [TPI Resuelto](./'TPI Resuelto (Musciano)'/)
+- [TPI Resuelto](./tp_resuelto/)
